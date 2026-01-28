@@ -500,7 +500,7 @@ const App = () => {
                                 transition={{ delay: 0.5 }}
                             >
                                 <a
-                                    href="https://github.com/AdixSasuke/PokeDetective"
+                                    href="https://github.com/nvmaditya/PokeDetective"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className={`inline-flex items-center gap-2 ${
